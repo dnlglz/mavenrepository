@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jan 25 11:14:31 CET 2023
+git\:releases\://git.regit.planificando.es/projects/TEST/repos/mavenrepository.git/packages/.error=Could not transfer artifact com.smartgwt\:smartgwt\:pom\:4.1p from/to com.smartgwt (git\:releases\://git.regit.planificando.es/projects/TEST/repos/mavenrepository.git/packages)\: Cannot access git\:releases\://git.regit.planificando.es/projects/TEST/repos/mavenrepository.git/packages with type default using the available connector factories\: BasicRepositoryConnectorFactory
+@default-com.smartgwt-git\:releases\://git.regit.planificando.es/projects/TEST/repos/mavenrepository.git/packages/.lastUpdated=1674641620324
+git\:releases\://git.regit.planificando.es/projects/TEST/repos/mavenrepository.git/.error=Could not transfer artifact com.smartgwt\:smartgwt\:pom\:4.1p from/to com.smartgwt (git\:releases\://git.regit.planificando.es/projects/TEST/repos/mavenrepository.git)\: Cannot access git\:releases\://git.regit.planificando.es/projects/TEST/repos/mavenrepository.git with type default using the available connector factories\: BasicRepositoryConnectorFactory
+http\://maven.cantabria.es/artifactory/amap/.lastUpdated=1674641620323
+https\://repo.maven.apache.org/maven2/.lastUpdated=1674641620117
+http\://maven.cantabria.es/artifactory/amap/.error=
+@default-com.smartgwt-git\:releases\://git.regit.planificando.es/projects/TEST/repos/mavenrepository.git/.lastUpdated=1674641671328
+https\://repo.maven.apache.org/maven2/.error=
